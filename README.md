@@ -41,4 +41,9 @@
 39. `route delete`: Deletes a static route from the IP routing table.
 40. `shutdown /r /fw /f /t 0`: Shuts down and restarts the computer immediately, bypassing the firmware (BIOS/UEFI) and forcefully terminating running processes.
 
-Credit: NetworkChuck, https://www.youtube.com/watch?v=Jfvg3CS1X3A
+# Special Thanks
+Special thanks to NetworkChuck for providing the command list used in this document. 
+
+https://www.youtube.com/watch?v=Jfvg3CS1X3A
+
+For more informative content, please visit NetworkChuck's YouTube channel.
